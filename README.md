@@ -6,7 +6,7 @@ Dream Travel is a travel website created as part of my Generative AI coursework 
 The website is designed to present travel destinations through an attractive layout and user-friendly interface.
 
 ## 🛠️ AI Tool Used
-- [Write the actual AI tool name here]
+bolt
 
 ## ✨ Features
 - Attractive website design
@@ -14,14 +14,8 @@ The website is designed to present travel destinations through an attractive lay
 - User-friendly interface
 - Responsive layout (if supported by the website)
 
-## 🤖 Prompt Used
-[Paste the original prompt used to generate the Dream Travel website here.]
-
-## 📸 Website Screenshots
-Screenshots of the website will be added here.
-
 ## 🔗 Live Website
-[Paste your published Dream Travel website link here.]
+https://dream-travels-websit-vf40.bolt.host/
 
 ## 📚 Learnings & Reflection
 Through this project, I learned how Generative AI can assist in website development. I improved my understanding of website design, project creation, and the use of AI tools.
